@@ -9,7 +9,8 @@
          <packaging>pom</packaging>
 
          <modules>
-              <module>maven-source-code</module>
+            <module>maven-source-code</module>
+            <module>plexus-classworlds</module>
          </modules>
 </project>
 
